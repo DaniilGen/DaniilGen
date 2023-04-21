@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋, I'm Daniil! -->
 
-<h1 align="center">👋 Hi there, I'm Daniil</a> 
+<h1 align="center"> Hi there, I'm Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!-- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
+<h3 align="center">✨ I am a 2nd year student of Information Analysis Security Systems in MEPhI. 🇺</h3>
 
-✨ I am a 2nd year student of Information Analysis Security Systems in MEPhI. 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilGen&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
