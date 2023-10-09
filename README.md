@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">✨ I am a 2nd year student of Information Analysis Security Systems in MEPhI. </h3>
+<h3 align="center">✨ I am a 3rd year student of Information Analysis Security Systems in MEPhI. </h3>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
